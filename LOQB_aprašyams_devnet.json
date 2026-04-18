@@ -1,6 +1,9 @@
 {
   "name": "limitedfree choice",
   "symbol": "LOQB",
+  "image": "https://raw.githubusercontent.com/Domantas-A-G/Solana_LOQB/refs/heads/main/LOQB%20Beta.png",
   "description": "Limitless and open and Quantum and build",
-  "image": "https://raw.githubusercontent.com/Domantas-A-G/Solana_LOQB/refs/heads/main/LOQB%20Beta.png"
+  "creator": {
+    "name": "LOQB ispire"
+  }
 }
